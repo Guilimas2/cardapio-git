@@ -4,6 +4,7 @@
 }
 h1 {
     text-align: center;
+    color: white;
 }
 header {
     background-color: rgb(210, 30, 30);
@@ -52,7 +53,6 @@ nav#menu a:hover{
 .container{
     max-width: 200%;
     margin: 5 auto;
-   
 }
 img{
     border-radius: 90px;
