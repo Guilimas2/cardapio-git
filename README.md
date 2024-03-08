@@ -12,4 +12,5 @@ Meu site e para ajudar as pessoas que estão na procura de comida japonesas em L
 
 # fonte consutadas
 https://emojiterra.com/pt<br>
-https://getbootstrap.com/docs/5.0/getting-started/introduction/
+https://getbootstrap.com/docs/5.0/getting-started/introduction/<br>
+https://dacho.com.br/site/unidades/londrina/ 
