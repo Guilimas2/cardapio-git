@@ -9,3 +9,7 @@ As tecnologias utilazada no meu site foram HTML e CSS
 
 # funcionalidade ⚙️
 Meu site e para ajudar as pessoas que estão na procura de comida japonesas em Londrina(Pr) e região 
+
+# fonte consutadas
+https://emojiterra.com/pt<br>
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
